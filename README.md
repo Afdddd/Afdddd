@@ -19,9 +19,7 @@ Blog     |  <a href="https://afdddd.github.io/"><img src="https://img.shields.io
 <br><br>
 ### $\color{gray}{Stat}$
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Afdddd" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afdddd&layout=compact&langs_count=8&card_width=320" />
 </a>
@@ -40,8 +38,6 @@ Blog     |  <a href="https://afdddd.github.io/"><img src="https://img.shields.io
 <img src="https://img.shields.io/badge/mybatis-0C0C0E?style=for-the-badge&logo=bookmyshow&logoColor=white">
 <img src="https://img.shields.io/badge/aws s3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/socket-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
